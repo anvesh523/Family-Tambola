@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791158779055",
+    "firebase_url": "https://family-tambola.firebaseio.com",
+    "project_id": "family-tambola",
+    "storage_bucket": "family-tambola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791158779055:android:ba2982db60520b1d",
+        "android_client_info": {
+          "package_name": "a.sample.tambola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791158779055-gpenurf07fktl6pkjjni8u7mf1tmh4ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a.sample.tambola",
+            "certificate_hash": "35435d1d16176c77d0928dafb615487b822e3211"
+          }
+        },
+        {
+          "client_id": "791158779055-eb6hnlgkf0q35meprodkk5ejkqbnadvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC94ENu_9OdGJ8D2-xRzN3_bvyBJjJyaWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791158779055-eb6hnlgkf0q35meprodkk5ejkqbnadvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

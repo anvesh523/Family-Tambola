@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Family Tambola</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="done"> Done!!! </string>
+
+    <string name="org">Organizer</string>
+    <string name="pat">Participator</string>
+
+    <string name="invitation_title"> Family Tambola </string>
+    <string name="invitation_message"> A simple tambola game</string>
+    <string name="invitation_cta"> INSTALL </string>
+
+</resources>
