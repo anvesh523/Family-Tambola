@@ -19,7 +19,7 @@ While Participating the game, You will get you know If any row completed or comp
 </br>
 </br>
 
-<h2>Copyright 2019 Anvesh</h2>
+<h2>Copyright 2019 </h2>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
